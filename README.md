@@ -20,8 +20,13 @@ My name is Akkireddy. I’m an DevOps Engineer who likes to build things in the 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## ⚡ Github Stats
 
 <a href="https://github.com/Akkireddy1/akkireddy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akkireddy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akkireddy's GitHub Stats" />
 </a>
+
+### Let's Connect 🔗
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/akkireddy-challa/)
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/akkireddy/)
